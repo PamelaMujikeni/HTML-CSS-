@@ -9,7 +9,7 @@ In this exercise i pull HTML and CSS basics together to create a website for a "
 -A ‘Contact Us’ page with a working form 
 -An order page (or similar) with a working form 
 
-I need to clean this up later - new to git :D
+I need to clean this up later - till learning the git ways :D
 
 
 
